@@ -31,4 +31,5 @@ simple-blog-bootstrap/
 - Using Bootstrap cards, navbar, and utilities
 - Practicing responsive design without writing much custom CSS
 - ## 📸 Screenshots
+- ![Image](https://github.com/user-attachments/assets/58d287df-99e0-4e3b-9389-1a91d35db557)
 
